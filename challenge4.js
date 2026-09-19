@@ -13,7 +13,7 @@ let max = x[0]
 
 for( let j = 0 ; j < x.length ; j++ ){
     some+=x[j]
-    if(x [j] < min ){
+    if(x[j] < min ){
     min = x[j]
     } 
     if(x[j] > max ){
